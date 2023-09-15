@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![GitHub repo size](https://img.shields.io/github/repo-size/sadhin555/advance-portfolio/)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/sadhin555/advance-portfolio)
   ![GitHub stars](https://img.shields.io/github/stars/sadhin555/advance-portfolio?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/sadhin555/advance-portfolio?style=social)
 
